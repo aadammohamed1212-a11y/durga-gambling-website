@@ -1,0 +1,39 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: #011627;
+    color: #fdfffc;
+    text-align: center;
+    border: 40px solid #2EC486;
+    border-top: 0PX ;
+    margin: 0px;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2{
+    text-transform: capitalize;
+}
+
+p{
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: justify;
+}
+
+form{
+    font-size: 1.5em;
+    margin: 20px;
+    line-height: 1.3;
+}
+
+a{
+    color: black;
+    background: #ff9f1c;
+   text-decoration: none;
+   border-radius: 5px;
+   border: 5px solid #ff9f1c;
+}
